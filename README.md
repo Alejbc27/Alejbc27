@@ -1,6 +1,6 @@
 # <img src=".images/Hi.gif" width="30px"> Hello, my name is **Alejandro Bosch**
 
-[![GitHub Stats](https://github-contribution-stats.vercel.app/api/?username=Alejbc27)](https://github.com/Alejbc27)
+![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejbc27&show_icons=true&theme=default)
 
 ---
 
