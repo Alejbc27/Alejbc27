@@ -1,4 +1,4 @@
-# <img src=".images/Hi.gif" width="30px"> Hello, my name is **Alejandro Bosch**
+# <img src="https://media.tenor.com/NeB_Rl6FphwAAAAi/waving-hand-joypixels.gif" width="30px"> Hello, my name is **Alejandro Bosch**
 
 ![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejbc27&show_icons=true&theme=default)
 
