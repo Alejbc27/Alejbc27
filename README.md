@@ -1,4 +1,4 @@
-# <img src=".images/hola.gif" width="30px"> Hello, my name is **Alejandro Bosch**
+# <img src=".images/hola.gif" width="30px"> Hello, my name is **Alejandro**
 
 ![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejbc27&show_icons=true&theme=default)
 
