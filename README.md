@@ -13,3 +13,24 @@
 
 <br>
 
+---
+
+## 🌐 Connect with me
+
+[<img alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/linkedin.png" />](https://www.linkedin.com/in/alejandroboschcervera/)
+
+<br>
+
+---
+
+## 🧰 Technologies & Tools
+
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" />
+<img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="40" />
+<img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure" width="40" />
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" />
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="80" />
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" />
+
+<br>
