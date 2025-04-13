@@ -15,7 +15,7 @@
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Check my LinkedIn profile to contact me <img src=".images/handshake.gif" width ="80">
 
 [<img alt="LinkedIn" width="60px" src="https://img.icons8.com/color/48/linkedin.png" />](https://www.linkedin.com/in/alejandroboschcervera/)
 
