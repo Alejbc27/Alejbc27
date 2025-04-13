@@ -17,7 +17,7 @@
 
 ## 🌐 Connect with me
 
-[<img alt="LinkedIn" width="40px" src="https://img.icons8.com/color/48/linkedin.png" />](https://www.linkedin.com/in/alejandroboschcervera/)
+[<img alt="LinkedIn" width="60px" src="https://img.icons8.com/color/48/linkedin.png" />](https://www.linkedin.com/in/alejandroboschcervera/)
 
 <br>
 
