@@ -6,14 +6,15 @@ reproduce instead of only demonstrating.
 
 ## Start here
 
-![A completed robot-factory-arena run: the warehouse task, the robot moving, and the live evidence panel](.images/replay.gif)
+![A completed robot-factory-arena run in the arena visualizer: the robot crossing the warehouse grid next to the verifier-owned evidence panel](.images/replay.gif)
 
-One completed run, replayed offline from its own recorded evidence — no provider calls.
+One completed run: all five orders delivered, verifier-owned score 100 — replayed offline from
+its own recorded evidence, with no provider calls.
 
 | Repository | What it shows |
 |---|---|
 | **[robot-factory-arena](https://github.com/Alejbc27/robot-factory-arena)** | Deterministic agent-evaluation harness: authorized tools, idempotency ledger, hard step and cost budgets, fault injection, hash-chained traces and offline replay. Reproducible from a seed. |
-| **[TFM-Deusens](https://github.com/Alejbc27/TFM-Deusens)** | Conversational hotel assistant over RAG: document ingestion, vector search, Redis and PostgreSQL, split across microservices. |
+| **[deusens-hyperexperience](https://github.com/Alejbc27/deusens-hyperexperience)** | Conversational hotel assistant over RAG: document ingestion, vector search, Redis and PostgreSQL, split across microservices. |
 | **[pintops](https://github.com/Alejbc27/pintops)** | Data engineering case study: public API ingestion, raw BigQuery load, idempotent SQL, Terraform and CI. |
 
 ## What I build
