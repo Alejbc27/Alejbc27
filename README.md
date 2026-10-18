@@ -1,38 +1,53 @@
-# <img src=".images/hola.gif" width="30px"> Hello, my name is **Alejandro**
+# Alejandro Bosch Cervera · AI & Data Engineer
 
-![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alejbc27&show_icons=true&theme=default)
+I build LLM applications and agents, and the data platform underneath them: GCP pipelines in
+BigQuery and dbt, Python services on Cloud Run, and agent systems I can evaluate and
+reproduce instead of only demonstrating.
 
----
+## Start here
 
-## A few facts about me 👨‍💻
+![A completed robot-factory-arena run: the warehouse task, the robot moving, and the live evidence panel](.images/replay.gif)
 
-- Data Engineer passionate about cloud, data pipelines and real-world applications  
-- Master in Big Data & Cloud at [EDEM](https://edem.eu/master-big-data-analytics/) in Valencia, Spain  
-- Background in end-to-end data projects using modern tools and cloud platforms  
-- Focused on building scalable, automated, and insightful data solutions  
+One completed run, replayed offline from its own recorded evidence — no provider calls.
 
-<br>
+| Repository | What it shows |
+|---|---|
+| **[robot-factory-arena](https://github.com/Alejbc27/robot-factory-arena)** | Deterministic agent-evaluation harness: authorized tools, idempotency ledger, hard step and cost budgets, fault injection, hash-chained traces and offline replay. Reproducible from a seed. |
+| **[TFM-Deusens](https://github.com/Alejbc27/TFM-Deusens)** | Conversational hotel assistant over RAG: document ingestion, vector search, Redis and PostgreSQL, split across microservices. |
+| **[pintops](https://github.com/Alejbc27/pintops)** | Data engineering case study: public API ingestion, raw BigQuery load, idempotent SQL, Terraform and CI. |
 
----
+## What I build
 
-## 🌐 Check my LinkedIn profile to contact me <img src=".images/handshake.gif" width ="80">
+| Area | In practice |
+|---|---|
+| **Agents & LLM applications** | Multi-agent systems with Google ADK and Gemini: specialised agents, dynamic orchestration, parallel execution, tool calling, structured-output validation and guardrails. |
+| **RAG** | Document ingestion and vector search integrated into a real conversational product, with OpenAI embeddings, chunking, asynchronous processing and per-client partitions. |
+| **Data platform** | BigQuery and dbt models, event-driven pipelines on Cloud Run and Pub/Sub, data quality checks and cost control. |
+| **Cloud & delivery** | Serverless GCP, Terraform, Docker, CI/CD with GitHub Actions, and Python services on Cloud Run. |
 
-[<img alt="LinkedIn" width="65px" src="https://img.icons8.com/color/48/linkedin.png" />](https://www.linkedin.com/in/alejandroboschcervera/)
+## Stack
 
-<br>
+**AI & agents** — Python · Google ADK · Gemini · LangChain · LangGraph · RAG · embeddings ·
+vector search · agent evaluation · tool calling · structured outputs
 
----
+**Data & cloud** — GCP (Cloud Run, Pub/Sub, BigQuery, Dataflow, Firestore, Secret Manager,
+Cloud Scheduler) · dbt · SQL · PySpark · Apache Airflow (dbt orchestration) · PostgreSQL ·
+Redis · Terraform · Docker · GitHub Actions
 
-## 🧰 Technologies & Tools
+**Certifications** — Google Cloud Digital Leader · AWS Certified Cloud Practitioner ·
+Microsoft Azure Data Fundamentals (DP-900)
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" />
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="80" />
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" />
-</p>
+**Languages** — Spanish (native) · Catalan/Valencian (native) · English (C1)
 
-<br>
+## How I work
+
+Every claim in my repositories comes with its evidence. `robot-factory-arena` separates what is
+verified from what is assumed, and states plainly what the system does *not* claim: no
+exactly-once guarantee, no hostile-code sandbox, no scientific result.
+
+I would rather ship a small system I can explain end to end than a large one I cannot.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/alejandroboschcervera/) · Based in Valencia, Spain.
+Open to Data Engineering and Applied AI / LLM Engineering roles, remote or hybrid.
